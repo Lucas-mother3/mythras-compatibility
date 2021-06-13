@@ -126,4 +126,4 @@ Never gonna make you cry
 
 Never gonna say goodbye
 
-[![Never Gonna Give You Up - Rick Astley (Official Music Video) ](http://img.youtube.com/vi/dQw4w9WgXcQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Borderline Forever - Scott the Woz](http://img.youtube.com/vi/mhbVUf3yyB0/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
