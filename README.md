@@ -4,19 +4,7 @@ A compatibility list for [Mythras](https://github.com/CounsellorPolonius/mythras
 MRPoid2018 made by [CounsellorPolonius](https://github.com/CounsellorPolonius). 
 This list is comprehensive and based on the Mythroad archive
 I uploaded on the [Internet Archives](https://archive.org/details/mrp-games).
-## Template
-```
-Display name: 
-Filename:
-Version:
-Screen size:
-Publisher/Developer:
-AppID:
-Language:
-CRC32 (optional):
-MD5 (optional):
-SHA (optional):
-```
+
 ## Links
 [Demonstration of the emulator](https://youtu.be/Due0q0-bfew)
 
